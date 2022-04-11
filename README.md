@@ -1,3 +1,6 @@
+![Adsız (1340 × 400 piksel)](https://user-images.githubusercontent.com/77791070/162804619-275eed8b-8cac-4ef9-afc7-6d8f4ec267a1.png)
+
+
 <h1 align="center">Hi 👋, I'm Mert Efe Soroğlu</h1>
 <h3 align="center">Junior Developer</h3>
 
