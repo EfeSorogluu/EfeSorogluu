@@ -1,9 +1,7 @@
 
-![Adsız (1340 × 400 piksel)](https://user-images.githubusercontent.com/77791070/162806372-8f124086-8ea8-43cf-ac7a-b1db583ac8fa.png)
-
 
 <h1 align="center">Hi 👋, I'm Mert Efe Soroğlu</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">Mid Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efesorogluu&label=Profile%20views&color=0e75b6&style=flat" alt="efesorogluu" /> </p>
 
